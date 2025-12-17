@@ -1,0 +1,85 @@
+header
+{
+ background-color:green;
+ color: white;
+ text-align:center;
+ padding:top;
+ margin:-21px;
+}
+.iwor 
+{
+ display:inline-block;
+ column-gap:25px;
+ row-gap:20px;
+
+}
+@media screen and (min-width:768px)
+{
+ .iwor
+  {
+    display:flex;
+    
+  }
+}
+.wor
+{
+ font-family:MS Gothic;
+ font-size: 20px;
+}
+.inwor
+{
+ font-size:13px;
+line-height:0.5px;
+}
+.worin
+{
+ font-size:16px;
+}
+h1
+{
+ color: white;
+ text-align:center;
+ font-family: Franklin Gothic;
+ font-size:24;
+}
+.price
+{
+ font-size:30px;
+ font-weight:4000;
+ font-family:Consolas;
+}
+co
+{
+text-decoration:none;
+}
+
+co:hover
+{
+ color:orange;
+}
+.pa
+{
+text-align:center;
+ height:auto;
+ transition:transform .5s ease-in;
+ transition:0.4s;
+
+}
+.pa:hover
+{
+transform: scale(1.1);
+}
+
+ html
+{
+display: inline-grid;
+}
+
+@media screen and (min-width:768px)
+{
+ html
+  {
+    display:block;
+    
+  }
+}

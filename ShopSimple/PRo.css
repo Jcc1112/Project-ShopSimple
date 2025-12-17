@@ -1,0 +1,145 @@
+header
+{
+ background-color:green;
+ color: white;
+ text-align:center;
+ padding:top;
+ margin:-21px;
+}
+h1
+{
+ color: white;
+ text-align:center;
+ font-family: Franklin Gothic;
+ font-size:24;
+}
+.pan
+{
+ display:flex;
+justify-content: flex-start;
+ column-gap:35px;
+ row-gap:1px;
+border-style:outset;
+ border-radius:15px;
+ padding:5px;
+ text-align:auto;
+}
+.pan1
+{
+ display:flex;
+ column-gap:25px;
+ row-gap:1px
+}
+.in
+{
+ font-size:9px;
+line-height:0.5px;
+}
+.infoname
+{
+ font-size:16px;
+font-family: MS Gothic;
+line-height:auto;
+}
+na, a
+{
+ text-decoration: none;
+}
+.nv, na
+{
+  list-style:none;
+ text-decoration: none;
+  outline: 0;
+ overflow: hidden; 
+ text-overflow: ellipsis;
+text-align:center;
+margin:0;
+ white-space: nowrap; 
+     overflow: hidden;
+}
+
+.nv, na
+{
+line-height: 26px;
+ text-decoration: none;
+ display:flex;
+ justify-content: space-between;
+ column-gap:30px;
+ row-gap:1px;
+cursor: pointer;
+ font-size: 14px;
+color: #00F074;
+ color: #777;
+ margin:0;
+ overflow: hidden;
+}
+
+co:hover
+{
+ color:orange;
+}
+
+
+.pan-img
+{
+text-align:center;
+ height:auto;
+ transition:tranform .5s ease-in;
+ transition:0.4s;
+
+}
+.pan-img:hover
+{
+transform: scale(1.1);
+}
+
+
+.pan1-img
+{
+
+ width:100%
+ height:auto;
+ transition:transform .5s ease-in;
+ transition:0.4s;
+
+}
+.pan-img:hover
+{
+transform: scale(1.1);
+}
+
+.tex
+{
+border-style:outset;
+ border-radius:15px;
+ padding:2.5px;
+ text-align:center;
+ height:auto;
+ transition:tranform .5s ease-in;
+ transition:0.4s;
+}
+
+.tex:hover
+{
+transform: scale(1.1);
+}
+
+ html
+{
+display:grid;
+}
+
+@media screen and (min-width:768px)
+{
+ html
+  {
+    display:block;
+    
+  }
+}
+
+
+
+
+
+ 
