@@ -1,5 +1,5 @@
 
-<h1>ShopSimple</h1>
+<h1>ShopSimple - Web Shopping</h1>
 
 <img src="https://github.com/Jcc1112/Project-ShopSimple-WebShopping/blob/main/Img1.png?raw=true" alt="Gallery of A2UI components" height="400">
 
