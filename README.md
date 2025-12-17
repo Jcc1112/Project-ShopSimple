@@ -1,6 +1,6 @@
 <h1>ShopSimple - Web Shopping</h1>
 
-<img src="https://github.com/Jcc1112/Project-ShopSimple-WebShopping/blob/main/Img1.png?raw=true" alt="Gallery of A2UI components" height="400">
+<img src="https://github.com/Jcc1112/Project-ShopSimple-WebShopping/blob/main/Img1.png?raw=true" alt="Homepage" height="400">
 
 
 The name ShopSimple is a symbol of simplicity as our webpage make things easier for the user 
